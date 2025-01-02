@@ -51,7 +51,7 @@ class DecorationSeeder extends Seeder
 
         Decoration::create([
             'name' => 'Geometric Shelf',
-            'image' => 'https://example.com/images/geometric-shelf.jpg',
+            'image' => 'https://m.media-amazon.com/images/I/71HKn8lGYcL.jpg',
             'description' => 'A modern geometric-shaped shelf for your decor.',
             'price' => 129.99,
             'stock' => 20,
@@ -99,7 +99,7 @@ class DecorationSeeder extends Seeder
 
         Decoration::create([
             'name' => 'Wooden Clock',
-            'image' => 'https://example.com/images/wooden-clock.jpg',
+            'image' => 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR98bE0EOORWw3B8cgqEYmx6VAkfaEwWmAhAw&s',
             'description' => 'A rustic wooden clock to give your room a vintage feel.',
             'price' => 79.99,
             'stock' => 16,
