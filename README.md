@@ -4,8 +4,11 @@ Furniture e-commerce is an online business that offers furniture and household p
 
 ## Tech Stack
 
--   **Client :** Tailwind, Blade Template
--   **Server :** PHP with Laravel
+-   **Client :** Tailwind CSS, Blade Template
+-   **Server :** PHP with Laravel  
+-   **Database :** MySQL  
+-   **Tools :** PHPStorm, DataGrip
+
 
 ## Run Locally
 
