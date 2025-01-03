@@ -100,3 +100,24 @@ Run serve
 -   Showcase
 -   Catalog
 -   Delivery
+
+
+
+![Ekran görüntüsü 2025-01-02 215555](https://github.com/user-attachments/assets/50648c20-d11a-44ef-b267-c3f66087868f)
+![Ekran görüntüsü 2025-01-02 215618](https://github.com/user-attachments/assets/d006024c-4822-4e2d-87fe-88112069399d)
+![Ekran görüntüsü 2025-01-02 215635](https://github.com/user-attachments/assets/7ef24bc2-f9e1-4b03-bf30-47fa7212a89c)
+![Ekran görüntüsü 2025-01-02 215651](https://github.com/user-attachments/assets/1d440738-7e30-4ef0-8b39-0a28ec072eaf)
+![Ekran görüntüsü 2025-01-02 215707](https://github.com/user-attachments/assets/5efe9ebb-40d3-44b2-89da-850e12abd22e)
+![Ekran görüntüsü 2025-01-02 215722](https://github.com/user-attachments/assets/3a945360-1b56-4962-a271-8ef71298ab74)
+![Ekran görüntüsü 2025-01-02 215741](https://github.com/user-attachments/assets/e3407d6e-9cac-4837-9919-9b46624d50fc)
+![Ekran görüntüsü 2025-01-02 215759](https://github.com/user-attachments/assets/b872997e-4be3-4312-b45e-232d330237e3)
+![Ekran görüntüsü 2025-01-02 215838](https://github.com/user-attachments/assets/4af64a0b-fa7c-4020-a965-970e0803ffbf)
+![Ekran görüntüsü 2025-01-02 215852](https://github.com/user-attachments/assets/2e900ac5-99a8-447e-ac59-0e487bd462d9)
+![Ekran görüntüsü 2025-01-02 215904](https://github.com/user-attachments/assets/8cb93fb7-4549-4f1e-8ce6-eab28082f588)
+
+
+
+
+
+
+
